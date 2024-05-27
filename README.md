@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulina A C Udeh
-- 👀 I’m interested in Frontend Web Development.
+- 👀 I’m a Full Stack Engineer.
 - 🌱 I’m currently learning Frameworks, libraries and Areas i can invest my time.
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me udehpaulina93@gmail.com
